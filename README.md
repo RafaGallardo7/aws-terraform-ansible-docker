@@ -25,7 +25,7 @@ then you will have to define your AWS_ACCESS_KEY, AWS_SECRET_KEY and AWS_REGION
 
 ```terraform plan```
 
-```terraform apply``
+```terraform apply```
 
 ## To destroy infrastructure
 ```terraform destroy````
